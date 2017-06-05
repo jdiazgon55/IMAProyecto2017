@@ -1,0 +1,10 @@
+HACER UNA MÁSCARA DE PROFUNDIDAD.
+
+GENERAR UN ESCALEXTRIC
+
+CIRCUITO AL REDEDOR DEL LIBRO quizás que suban por el libro.
+
+Importar fbx con el sketch up (o blender?) con colisiones si quieres que los coches suban por el libro.
+	--> Para ello Data warehouse sketch up buscas scalextrick track y te pillas un modelo, (escalarlo?)
+	--> Cuando le das click al modelo dale a Generate Colliders en el inspector y darle Apply.
+

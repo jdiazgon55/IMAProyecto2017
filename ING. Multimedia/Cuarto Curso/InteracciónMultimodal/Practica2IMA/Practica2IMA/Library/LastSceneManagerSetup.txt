@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/IMA 2017/Scenes/Warping.unity
+  isLoaded: 1
+  isActive: 1

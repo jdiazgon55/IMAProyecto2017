@@ -1,0 +1,22 @@
+cLASE CAPTURA DE MOVIMIENTO:
+
+
+Sistemas electromagneticos:
+	Ventaja: Pueden medir tanto orientación como posición.
+	Desventaja: Ruido magnetico significa que elementos metálicos pueden interferir en la captura.
+		    Hay que cablear todo, son aparatosos. Proyecto completamente abandonado. 
+
+Sistemas electromecánicos (inerciales):
+
+Sistemas basado en fibras ópticas: Utiliza también el movimiento mecánico
+
+----UTILIZADOS---
+
+Sistemas de captura ópticos: 
+Lo más normal es por infrarrojos. Simplifica bastante el problema.Tiene problemas de oclusión por ello
+la interacción entre varios puede fallar.
+
+
+PIPELINE SISTEMAS CAPTURA:
+
+Mocap Planning ---> ¿Qué queremos capturar y cuanto queremos capturar?
